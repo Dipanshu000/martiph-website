@@ -1,2 +1,2 @@
 # martiph-website
-The website of martiph.
+The amazing website of martiph.
